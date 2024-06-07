@@ -1,0 +1,25 @@
+From ea7a6ad7cf1465ce463fb39ef8f18e51e253d1f7 Mon Sep 17 00:00:00 2001
+From: Sabri Ünal <yakushabb@gmail.com>
+Date: Fri, 7 Jun 2024 12:50:46 +0300
+Subject: [PATCH] appdata: Update appdata
+
+- Fix appdata papercuts
+---
+ metadata/online.athn.browser.gnome.metainfo.xml | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/metadata/online.athn.browser.gnome.metainfo.xml b/metadata/online.athn.browser.gnome.metainfo.xml
+index 95a62bb..aef159d 100644
+--- a/metadata/online.athn.browser.gnome.metainfo.xml
++++ b/metadata/online.athn.browser.gnome.metainfo.xml
+@@ -4,6 +4,7 @@
+   
+   <name>ATHN browser Gnome</name>
+   <summary>ATHN browser for gnome</summary>
++  <developer_name>Ava</developer_name>
+   
+   <metadata_license>CC0-1.0</metadata_license>
+   <project_license>CC0-1.0</project_license>
+--
+libgit2 1.7.2
+
