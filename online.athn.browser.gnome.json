@@ -42,10 +42,6 @@
                     "tag": "v0.1.1-alpha",
                     "commit": "32fbab6809f9bc179413830241caff8f9a0736bd"
                 },
-                {
-                    "type": "patch",
-                    "path": "fix_appdata.patch"
-                },
                 "metadata/cargo-sources.json"
             ]
         }
