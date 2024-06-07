@@ -1,7 +1,7 @@
 {
     "app-id": "online.athn.browser.gnome",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "44",
+    "runtime-version": "46",
     "sdk": "org.gnome.Sdk",
     "sdk-extensions": [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -41,6 +41,10 @@
                     "url": "https://github.com/itzgoldenleonard/reference-browser-gnome.git",
                     "tag": "v0.1.1",
                     "commit": "4104f93c7eda277a20c2b03a14206aa7333ca500"
+                },
+                {
+                    "type": "patch",
+                    "path": "fix_appdata.patch"
                 },
                 "metadata/cargo-sources.json"
             ]
