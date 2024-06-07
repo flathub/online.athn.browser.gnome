@@ -39,8 +39,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/itzgoldenleonard/reference-browser-gnome.git",
-                    "tag": "v0.1.1",
-                    "commit": "4104f93c7eda277a20c2b03a14206aa7333ca500"
+                    "tag": "v0.1.1-alpha",
+                    "commit": "32fbab6809f9bc179413830241caff8f9a0736bd"
                 },
                 {
                     "type": "patch",
